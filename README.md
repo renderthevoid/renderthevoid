@@ -71,13 +71,13 @@
 	    			</td>   
 				<td align="center" width="96">
 	      				<a href="#debabin-stack">
-            					<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)"  width="45" height="45" alt="HTML"/>
+            					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
 	     				</a>
 	      				<br>HTML
 	   			</td>
 				<td align="center" width="96">
 	      				<a href="#debabin-stack">
-            					<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg)"  width="45" height="45" alt="Webpack"/>
+            					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="45" height="45" alt="Webpack"/>
 	     				</a>
 	      				<br>Webpack
 	   			</td>
