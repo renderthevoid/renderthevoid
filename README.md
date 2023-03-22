@@ -6,9 +6,10 @@
 
 
 <div id="info">
+	<h2>I'm a Frontend Web Developer</h2>
 	<ul>
-		<h2>I'm a Frontend Web Developer</h2>
 		<li>😎 Young promising</li>
+		<li>😀 Sociable and friendly</li>
 	</ul>
 	
 </div>
