@@ -88,10 +88,10 @@
 <div>
 	<div id="socials" align="center">
 		<a href="https://www.instagram.com/renderthevoid.hrew/">
-			<img src="https://img.shields.io/badge/Instagram-dark?style=for-the-badge&logo=instagram&logoColor=white" alt="inst"/>
+			<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="inst"/>
 		</a>
-		<a href="https://www.telegram.com/renderthevoid;">
-			<img src="https://img.shields.io/badge/Telegram-dark?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter"/>
+		<a href="https://www.telegram.com/renderthevoidl">
+			<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram"/>
 		</a>
 	</div>
 	<div id="stat" align="center">
