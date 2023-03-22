@@ -3,6 +3,6 @@
 <h3 align="center">Frontend Developer from Russia 🇷🇺</h3>
 
 
-<a href="https://vk.com/shrek5design">
+<a href="https://vk.com/shrek5design" target="_blank">
 	<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="vk"/>
 </a>
