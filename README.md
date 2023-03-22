@@ -87,14 +87,14 @@
 
 <div>
 	<h2>Other</h2>
-	<ul id="socials">
-		<li><a href="https://www.instagram.com/renderthevoid.hrew/">
+	<div id="socials">
+		<a href="https://www.instagram.com/renderthevoid.hrew/">
 			<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="inst"/>
-		</a></li>
-		<li><a href="https://www.telegram.com/renderthevoidl">
+		</a>
+		<a href="https://www.telegram.com/renderthevoidl">
 			<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram"/>
-		</a></li>
-	</ul>
+		</a>
+	</div>
 	<div id="stat">
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renderthevoid&theme=github_dark"/>
 	</div>
