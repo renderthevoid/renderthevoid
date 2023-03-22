@@ -87,8 +87,6 @@
 
 <div>
 	<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renderthevoid&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renderthevoid&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renderthevoid&theme=github_dark"/>
-</div>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renderthevoid&theme=github_dark"/>
+	</div>
 </div>
