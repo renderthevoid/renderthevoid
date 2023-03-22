@@ -16,14 +16,13 @@
 
 <div>
 	<h2>Tech Stack</h2>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 	<table width="100%">
   <tbody><tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="45" height="45" alt="C#"/>
       </a>
-      <br>JavaScript
+      <br>C#
     </td>    
     <td align="center" width="96">
       <a href="#debabin-stack">
