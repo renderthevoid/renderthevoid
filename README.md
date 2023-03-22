@@ -59,7 +59,7 @@
 	   			</td>
 	    			<td align="center" width="96">
 	      				<a href="#debabin-stack">
-						<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)" width="45" height="45" alt="Redux"/>
+						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
 	     				</a>
 	      				<br>Redux
 	   			</td>
@@ -69,6 +69,18 @@
 	      				</a>
 	      				<br>Sass
 	    			</td>   
+				<td align="center" width="96">
+	      				<a href="#debabin-stack">
+            					<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)"  width="45" height="45" alt="HTML"/>
+	     				</a>
+	      				<br>HTML
+	   			</td>
+				<td align="center" width="96">
+	      				<a href="#debabin-stack">
+            					<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg)"  width="45" height="45" alt="Webpack"/>
+	     				</a>
+	      				<br>Webpack
+	   			</td>
 	  		</tr> 
 		</tbody>
 	</table>
