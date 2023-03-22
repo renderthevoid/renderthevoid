@@ -95,7 +95,7 @@
 			<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram"/>
 		</a>
 	</div>
-	<div id="stat">
+	<div id="stat" align="right">
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renderthevoid&theme=github_dark"/>
 	</div>
 </div>
