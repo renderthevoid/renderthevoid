@@ -43,7 +43,8 @@
 	  		</tr> 
 		</tbody>
 	</table>
-	
+</div>
+<div>
 	<blockquote>
 		<p dir="auto">Frontend</p>
 	</blockquote>
