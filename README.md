@@ -6,10 +6,10 @@
 
 
 <div id="info">
-	<h2>I'm a Frontend Web Developer</h2>
+	<h2>I'm a Frontend Developer</h2>
 	<ul>
 		<li>😎 Young promising</li>
 		<li>😀 Sociable and friendly</li>
+		<li>🌱 I’m currently learning TypeScript</li>
 	</ul>
-	
 </div>
