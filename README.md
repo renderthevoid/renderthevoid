@@ -3,6 +3,6 @@
 <h3 align="center">Frontend Developer from Russia 🇷🇺</h3>
 
 
-<a href="linkedin-url">
-	<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn"/>
+<a href="https://vk.com/shrek5design">
+	<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="vk"/>
 </a>
