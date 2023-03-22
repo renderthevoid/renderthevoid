@@ -3,6 +3,14 @@
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E342F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+Russia" alt="Typing SVG" /></a>
 
 
-<a href="https://vk.com/shrek5design" target="_blank">
-	<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="vk"/>
-</a>
+<div id="socials" align="center">
+	<a href="linkedin-url">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="twitter-url">
+		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+	</a>
+	<a href="telegram-url">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
