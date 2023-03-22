@@ -22,6 +22,12 @@
 	<table width="100%">
 		<tbody>
 			<tr>
+				<td align="center" width="96">
+	      				<a href="#debabin-stack">
+            					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+	     				</a>
+	      				<br>JavaScript
+	   			</td>
 	    			<td align="center" width="96">
 	      				<a href="#debabin-stack">
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="45" height="45" alt="C#"/>
