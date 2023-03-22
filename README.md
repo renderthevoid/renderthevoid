@@ -91,7 +91,7 @@
 		<a href="https://www.instagram.com/renderthevoid.hrew/">
 			<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="inst"/>
 		</a>
-		<a href="https://www.telegram.com/renderthevoidl">
+		<a href="https://web.telegram.org/renderthevoidl">
 			<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram"/>
 		</a>
 	</div>
