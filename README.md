@@ -86,6 +86,7 @@
 
 
 <div>
+	<h2>Other</h2>
 	<div id="socials" align="center">
 		<a href="https://www.instagram.com/renderthevoid.hrew/">
 			<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="inst"/>
