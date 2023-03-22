@@ -86,6 +86,14 @@
 
 
 <div>
+	<div id="socials" align="center">
+		<a href="https://www.instagram.com/renderthevoid.hrew/">
+			<img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="inst"/>
+		</a>
+		<a href="https://www.telegram.com/renderthevoid;">
+			<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+		</a>
+	</div>
 	<div id="stat" align="center">
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renderthevoid&theme=github_dark"/>
 	</div>
