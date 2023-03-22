@@ -20,13 +20,21 @@
 		<p dir="auto">General</p>
 	</blockquote>
 	<table width="100%">
-	  <tbody><tr>
-	    <td align="center" width="96">
-	      <a href="#debabin-stack">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="45" height="45" alt="C#"/>
-	      </a>
-	      <br>C#
-	    </td>    
-	  </tr> 
-	</tbody></table>
+		<tbody>
+			<tr>
+	    			<td align="center" width="96">
+	      				<a href="#debabin-stack">
+						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="45" height="45" alt="C#"/>
+	     				</a>
+	      				<br>C#
+	   			</td>
+	    			<td align="center" width="96">
+	      				<a href="#debabin-stack">
+            					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+	      				</a>
+	      				<br>Git
+	    			</td>   
+	  		</tr> 
+		</tbody>
+	</table>
 </div>
