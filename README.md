@@ -87,7 +87,7 @@
 
 <div>
 	<h2>Other</h2>
-	<div>
+	<div margin-bottom="20">
 		<img src="https://www.codewars.com/users/renderthevoid/badges/large">
 	</div>
 	<div id="socials" width="200">
