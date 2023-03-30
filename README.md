@@ -87,9 +87,10 @@
 
 <div>
 	<h2>Other</h2>
-	<div margin-bottom="20px">
+	<div>
 		<img src="https://www.codewars.com/users/renderthevoid/badges/large">
 	</div>
+	<br>
 	<div id="socials" width="200">
 		<a href="https://www.instagram.com/renderthevoid.hrew/" target="_blank">
 			<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="inst"/>
