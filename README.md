@@ -87,7 +87,7 @@
 
 <div>
 	<h2>Other</h2>
-	<div margin-bottom="20">
+	<div margin-bottom="20px">
 		<img src="https://www.codewars.com/users/renderthevoid/badges/large">
 	</div>
 	<div id="socials" width="200">
@@ -97,8 +97,5 @@
 		<a href="https://t.me/renderthevoidl" target="_blank">
 			<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram"/>
 		</a>
-	</div>
-	<div id="stat" align="right">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renderthevoid&theme=github_dark"/>
 	</div>
 </div>
