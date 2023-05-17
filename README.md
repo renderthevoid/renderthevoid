@@ -7,7 +7,7 @@
 	<ul>
 		<li>😎 Young promising</li>
 		<li>😀 Sociable and friendly</li>
-		<li>🌱 I’m currently learning TypeScript, React, Redux</li>
+		<li>🌱 I’m currently learning TypeScript</li>
 	</ul>
 </div>
 
