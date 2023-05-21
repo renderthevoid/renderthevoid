@@ -92,7 +92,7 @@
 	<br>
 	<div id="socials" width="200">
 		<a href="https://www.instagram.com/renderthevoid.hrew/" target="_blank">
-			<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="inst"/>
+			<img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=instagram&logoColor=black" alt="leetcode"/>
 		</a>
 		<a href="https://t.me/renderthevoidl" target="_blank">
 			<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram"/>
