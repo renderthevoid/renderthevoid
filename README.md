@@ -2,14 +2,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A929F7&width=435&lines=Frontend+Developer" alt="Typing SVG" /></a>
 
 
-<!-- <div id="info">
+<div id="info">
 	<h2>About</h2>
 	<ul>
 		<li>😎 Young promising</li>
 		<li>😀 Sociable and friendly</li>
 		<li>🌱 I’m currently learning TypeScript</li>
 	</ul>
-</div> -->
+</div>
 
 <div>
 	<h2>Tech Stack</h2>
