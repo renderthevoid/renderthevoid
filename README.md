@@ -91,7 +91,7 @@
 	</div>
 	<br>
 	<div id="socials" width="200">
-		<a href="https://www.instagram.com/renderthevoid.hrew/" target="_blank">
+		<a href="https://leetcode.com/renderthevoid/" target="_blank">
 			<img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
 		</a>
 		<a href="https://t.me/renderthevoidl" target="_blank">
