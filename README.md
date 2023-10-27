@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hello there, I'm <a href="#" target="_blank">Vlad</a> </h1>
+<h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/> Hello there, I'm <a href="#" target="_blank">Vlad</a> </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A929F7&width=435&lines=Frontend+Developer" alt="Typing SVG" /></a>
 
 
