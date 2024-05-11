@@ -3,12 +3,12 @@
  -->
 
 <div id="info">
-	<h2>About</h2>
-	<ul>
-<!-- 		<li>😎 Young promising</li>
-		<li>😀 Sociable and friendly</li> -->
+<!-- 	<h2>About</h2> -->
+<!-- 	<ul>
+		<li>😎 Young promising</li>
+		<li>😀 Sociable and friendly</li>
 		<li>🌱 I’m currently learning TypeScript</li>
-	</ul>
+	</ul> -->
 </div>
 
 <div>
