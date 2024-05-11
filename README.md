@@ -54,24 +54,24 @@
 	     				</a>
 	      				<br>Vue
 	   			</td>
-<!-- 				<td align="center" width="96">
+				<td align="center" width="96">
 	      				<a href="#debabin-stack">
             					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="45" height="45" alt="React"/>
 	     				</a>
 	      				<br>React
-	   			</td> -->
-				<td align="center" width="96">
-	      				<a href="#debabin-stack">
-            					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind"/>
-	     				</a>
-	      				<br>Redux
 	   			</td>
-<!-- 	    			<td align="center" width="96">
+	    			<td align="center" width="96">
 	      				<a href="#debabin-stack">
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
 	     				</a>
 	      				<br>Redux
-	   			</td> -->
+	   			</td>
+				<td align="center" width="96">
+	      				<a href="#debabin-stack">
+            					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind"/>
+	     				</a>
+	      				<br>Tailwind
+	   			</td>
 	    			<td align="center" width="96">
 	      				<a href="#debabin-stack">
             					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45" alt="Sass"/>
