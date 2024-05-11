@@ -50,10 +50,16 @@
 			<tr>
 				<td align="center" width="96">
 	      				<a href="#debabin-stack">
-            					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="45" height="45" alt="React"/>
+						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 	     				</a>
 	      				<br>React
 	   			</td>
+<!-- 				<td align="center" width="96">
+	      				<a href="#debabin-stack">
+            					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="45" height="45" alt="React"/>
+	     				</a>
+	      				<br>React
+	   			</td> -->
 	    			<td align="center" width="96">
 	      				<a href="#debabin-stack">
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
